@@ -14,6 +14,8 @@
 
 ## Networking Bag
 
-- 8 port gigibit switch
+- 8 port managed gigibit switch
+- 100 ft ethernet cable
+- 8x 10ft ethernet cables
 
 ## Ham Radio Bag
