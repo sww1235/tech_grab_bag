@@ -4,14 +4,8 @@
 
 ### Audio Adapters
 
-- 2x 1/4" to 1/8" adapter male-female
-- 2x 1/4" to 1/8" adapter female-male
-- 2x 1/4" to 1/8" adapter male-male
-- 2x 1/4" to 1/8" adapter female-female
-- 2x 1/4" to 1/8" adapter male-female right angle
-- 2x 1/4" to 1/8" adapter female-male right angle
-- 2x 1/4" to 1/8" adapter male-male right angle
-- 2x 1/4" to 1/8" adapter female-female right angle
+- 2x (each) 1/4" to 1/8" adapter M(F)- M(F)
+- 2x (each) 1/4" to 1/8" adapter M(F)- M(F) right angle
 - 2x mono - stereo 1/4" adapter
 - 2x male - male 1/4" adapter
 - 2x female - female 1/4" adapter
@@ -98,6 +92,10 @@
 
 - Direct Box (general)
 - Direct Box (Stereo)
+- SM58
+- 2x2 USB audio interface w/ mic pre
+- HDM 280 headset w/ adapter collection
+- HD 280
 
 ## Networking Bag
 
