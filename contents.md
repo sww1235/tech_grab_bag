@@ -1,3 +1,13 @@
+# Description/ideas
+
+seperate audio adapters into consumer, professional and specialty
+
+BNC to audio connetors are in audio bag, BNC to RF is in RF bag
+
+Networking and serial are in the serial bag
+
+also have a weekend bag with most common consumer adapters 
+
 # Contents
 
 ## AV Bag
@@ -26,8 +36,13 @@
 - 2x RCA M(F) to 1/4" M(F)
 - 2x RCA M(F) to F M(F)
 - 2x RCA M(F) to 1/8" M(F)
+- 2x RCA M(F) to 2x RCA M(F) splitter
+- 2x RCA M(F) to 3x RCA M(F) splitter
 - 2x RCA M(F) to screw terminal
 - 2x BNC M(F) to screw terminal
+- 2x BNC M(F) coupler
+- 2x BNC right angle adapter
+- 8x BNC F to 2x M splitter
 - 2x F M(F) to screw terminal
 - 2x 1/8" M(F) to screw terminal
 - 2x 1/4" M(F) to screw terminal
@@ -46,9 +61,26 @@
 - 2x DVI F(M) coupler
 - 2x DisplayPort F(M) coupler
 - 2x VGA F(M) coupler
-- 2x DVI-D M(F) - HDMI F(M) adapter
-- 2x DVI-D M(F) - Display Port F(M) adapter
-- 2x 
+- 2x DVI-D M(F) - HDMI F(M) adapter (pigtail)
+- 2x DVI-D M(F) - Display Port F(M) adapter (pigtail)
+- 2x DVI-I M(F) - VGA M(F) adapter (pigtail)
+- 2x MiniDP M to VGA F (pigtail)
+- 2x MiniDP M to DVI-I F (pigtail)
+- 2x MiniDP M to Display Port F (pigtail)
+- 2x MiniDP M to HDMI F (pigtail)
+- 2x DisplayPort M(F) to VGA F(M) (pigtail)
+- 2x DisplayPort M(F) to DVI-I F(M) (pigtail)
+- 2x DisplayPort M(F) to HDMI F (M) (pigtail)
+
+### RF adapters (each)
+
+- 2x UHF M(F) to BNC M(F) adapter (RP)
+- 2x UHF M(F) to TNC M(F) adapter (RP)
+- 2x UHF M(F) to SNA M(F) adapter (RP)
+- 2x UHF M(F) to N M(F) adapter (RP)
+- 2x UHF M(F) to F M(F) adapter (RP)
+- 2x TNC M(F) to BNC M(F) adapter (RP)
+- 
 
 ### Cables
 
@@ -69,10 +101,27 @@
 - 2x2 USB audio interface w/ mic pre
 - HDM 280 headset w/ adapter collection
 - HD 280
+- HDMI active splitter
+- DVI active splitter
+- VGA active splitter
+- Displayport active splitter
+- 2x XLR ground lifter
 
 ## Networking Bag
 
+### Adapters
+
+- DB25 to screw terminal
+- DB9 to screw terminal
+- DB15 to screw terminal
+
+### Equipment
+
 - 8 port managed gigibit switch
+- Raspberry Pi
+
+### Cables
+
 - 100 ft ethernet cable
 - 8x 10ft ethernet cables
 
