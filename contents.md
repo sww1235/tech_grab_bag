@@ -112,6 +112,7 @@ also have a weekend bag with most common consumer adapters
 - SDI over optical extender
 - VGA over ethernet extender
 - VGA over optical extender
+- Rolls MiniMix II
 
 ## Networking Bag
 
