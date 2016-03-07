@@ -106,6 +106,13 @@ also have a weekend bag with most common consumer adapters
 - VGA active splitter
 - Displayport active splitter
 - 2x XLR ground lifter
+- HDMI over ethernet extender
+- HDMI over optical extender
+- DVI over ethernet extender
+- DVI over optical extender
+- SDI over optical extender
+- VGA over ethernet extender
+- VGA over optical extender
 
 ## Networking Bag
 
@@ -119,6 +126,8 @@ also have a weekend bag with most common consumer adapters
 
 - 8 port managed gigibit switch
 - Raspberry Pi
+- Wifi Access Point high power
+- multihomed router
 
 ### Cables
 
