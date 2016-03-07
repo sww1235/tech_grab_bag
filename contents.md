@@ -115,11 +115,11 @@ also have a weekend bag with most common consumer adapters
 
 ## Networking Bag
 
-### Adapters
+### Adapters (each)
 
-- DB25 to screw terminal
-- DB9 to screw terminal
-- DB15 to screw terminal
+- 2x DB25 M(F) to screw terminal
+- 2x DB9 M(F) to screw terminal
+- 2x DB15 M(F) to screw terminal
 
 ### Equipment
 
