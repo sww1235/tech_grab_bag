@@ -80,7 +80,6 @@ also have a weekend bag with most common consumer adapters
 - 2x UHF M(F) to N M(F) adapter (RP)
 - 2x UHF M(F) to F M(F) adapter (RP)
 - 2x TNC M(F) to BNC M(F) adapter (RP)
-- 
 
 ### Cables
 
