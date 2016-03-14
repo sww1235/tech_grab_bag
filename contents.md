@@ -7,6 +7,10 @@ BNC to audio connetors are in audio bag, BNC to RF is in RF bag
 Networking and serial are in the serial bag
 
 also have a weekend bag with most common consumer adapters 
+## to be catagorized 
+
+- gaff tape
+
 
 # Contents
 
